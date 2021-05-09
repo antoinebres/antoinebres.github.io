@@ -1,0 +1,27 @@
+---
+title: Blog
+---
+<h1>Latest Posts</h1>
+	{% assign image_files = site.static_files | where: "image", true %}
+	{% for post in paginator.posts %}
+		{% include article_card.html %}
+	{% endfor %}
+<div class="pagination row">
+	<div>
+		<div class="float-left">
+			<span class="page_number"> Page: {{ paginator.page }} of {{ paginator.total_pages }} </span>
+		</div>
+		<div class="float-right">
+			{% if paginator.previous_page %}
+			<a href="{{ paginator.previous_page_path }}" class="previous">Previous</a>
+			{% else %}
+			<span class="previous">Previous</span>
+			{% endif %}
+			{% if paginator.next_page %}
+			<a href="{{ paginator.next_page_path }}" class="next">Next</a>
+			{% else %}
+			<span class="next ">Next</span>
+			{% endif %}
+		</div>
+	</div>
+</div>

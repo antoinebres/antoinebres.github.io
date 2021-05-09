@@ -1,0 +1,30 @@
+<!doctype html>
+<html>
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>{{ page.title }}</title>
+    <link rel="stylesheet" href="/assets/css/styles.css">
+    <link rel="icon" type="image/png" href="assets/images/logo.gif">
+    {% feed_meta %}
+    {% seo %}
+  </head>
+  <body>
+    <div class="theme-container">
+      <div class="container" style="width: 95%">
+        {% include navigation.html %}
+        {{ content }}
+        <hr>
+        <footer class="blog-footer">
+          Socials
+          <div class="row">
+          <ul class="list-reset">
+            <li><a href="">LinkedIn</a></li>
+            <li><a href="">Github</a></li>
+          </ul>
+          </div>
+        </footer>
+      </div>
+    </div>
+  </body>
+</html>

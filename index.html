@@ -1,1 +1,19 @@
-"Hello World" 
+---
+title: Antoine Bres
+---
+<main>
+	<div id="introduction" class="row">
+		<h1>👋 Hi, I'm Antoine Bres</h1>
+		<p>This is my blog</p>
+	</div>
+	<hr>
+	<div class="row">
+			<div align="center"><h3>Latest</h3></div>
+    		{% assign latest_posts = site.posts | slice: 0, 3 %}
+    		{% for post in latest_posts %}
+    			{% include article_card.html %}
+    		{% endfor %}
+    		{% assign blog_uri = site.data.navigation | where: "name", "Blog" | first %}
+    		<a href="{{blog_uri.link}}">More posts</a>
+	</div><!-- /.row -->
+</main><!-- /.container -->
