@@ -1,21 +1,9 @@
-<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="/feed.xml" rel="self" type="application/atom+xml" /><link href="/" rel="alternate" type="text/html" /><updated>2021-05-10T00:07:14+02:00</updated><id>/feed.xml</id><entry><title type="html">Kiwi</title><link href="/2021/05/01/kiwi.html" rel="alternate" type="text/html" title="Kiwi" /><published>2021-05-01T00:00:00+02:00</published><updated>2021-05-01T00:00:00+02:00</updated><id>/2021/05/01/kiwi</id><content type="html" xml:base="/2021/05/01/kiwi.html">&lt;p&gt;Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible
-berry of several species of woody vines in the genus Actinidia.&lt;/p&gt;
+<?xml version="1.0" encoding="utf-8"?><feed xmlns="http://www.w3.org/2005/Atom" ><generator uri="https://jekyllrb.com/" version="4.2.0">Jekyll</generator><link href="http://www.antoinebres.gihub.io/feed.xml" rel="self" type="application/atom+xml" /><link href="http://www.antoinebres.gihub.io/" rel="alternate" type="text/html" /><updated>2021-05-16T14:37:21+02:00</updated><id>http://www.antoinebres.gihub.io/feed.xml</id><title type="html">Antoine Bres</title><subtitle>Inspirations &amp; realisations</subtitle><author><name>Antoine Bres</name></author><entry><title type="html">First post</title><link href="http://www.antoinebres.gihub.io/fr-premier-post/" rel="alternate" type="text/html" title="First post" /><published>2021-05-13T00:00:00+02:00</published><updated>2021-05-13T00:00:00+02:00</updated><id>http://www.antoinebres.gihub.io/fr-premier-post</id><content type="html" xml:base="http://www.antoinebres.gihub.io/fr-premier-post/">&lt;p&gt;C’est le premier post de ce blog.&lt;/p&gt;
 
-&lt;p&gt;The most common cultivar group of kiwifruit is oval, about the size of a large
-hen’s egg (5–8 cm (2.0–3.1 in) in length and 4.5–5.5 cm (1.8–2.2 in) in
-diameter). It has a fibrous, dull greenish-brown skin and bright green or
-golden flesh with rows of tiny, black, edible seeds. The fruit has a soft
-texture, with a sweet and unique flavor.&lt;/p&gt;</content><author><name>ted</name></author><summary type="html">Kiwifruit (often abbreviated as kiwi), or Chinese gooseberry is the edible berry of several species of woody vines in the genus Actinidia.</summary><media:thumbnail xmlns:media="http://search.yahoo.com/mrss/" url="/assets/images/model_confidence.png" /><media:content medium="image" url="/assets/images/model_confidence.png" xmlns:media="http://search.yahoo.com/mrss/" /></entry><entry><title type="html">Apples</title><link href="/2021/05/01/apples.html" rel="alternate" type="text/html" title="Apples" /><published>2021-05-01T00:00:00+02:00</published><updated>2021-05-01T00:00:00+02:00</updated><id>/2021/05/01/apples</id><content type="html" xml:base="/2021/05/01/apples.html">&lt;p&gt;An apple is a sweet, edible fruit produced by an apple tree.&lt;/p&gt;
+&lt;div class=&quot;language-python highlighter-rouge&quot;&gt;&lt;div class=&quot;highlight&quot;&gt;&lt;pre class=&quot;highlight&quot;&gt;&lt;code&gt;&lt;span class=&quot;k&quot;&gt;def&lt;/span&gt; &lt;span class=&quot;nf&quot;&gt;say_hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;():&lt;/span&gt;
+    &lt;span class=&quot;k&quot;&gt;print&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;(&lt;/span&gt;&lt;span class=&quot;s&quot;&gt;&quot;hello world!&quot;&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;)&lt;/span&gt;
 
-&lt;p&gt;Apple trees are cultivated worldwide, and are the most widely grown species in
-the genus Malus. The tree originated in Central Asia, where its wild ancestor,
-Malus sieversii, is still found today. Apples have been grown for thousands of
-years in Asia and Europe, and were brought to North America by European
-colonists.&lt;/p&gt;</content><author><name>jill</name></author><summary type="html">An apple is a sweet, edible fruit produced by an apple tree.</summary></entry><entry><title type="html">Bananas</title><link href="/2021/05/01/bananas.html" rel="alternate" type="text/html" title="Bananas" /><published>2021-05-01T00:00:00+02:00</published><updated>2021-05-01T00:00:00+02:00</updated><id>/2021/05/01/bananas</id><content type="html" xml:base="/2021/05/01/bananas.html">&lt;p&gt;A banana is an edible fruit – botanically a berry – produced by several kinds
-of large herbaceous flowering plants in the genus Musa.&lt;/p&gt;
+&lt;span class=&quot;n&quot;&gt;say_hello&lt;/span&gt;&lt;span class=&quot;p&quot;&gt;()&lt;/span&gt;
+&lt;/code&gt;&lt;/pre&gt;&lt;/div&gt;&lt;/div&gt;
 
-&lt;p&gt;In some countries, bananas used for cooking may be called “plantains”,
-distinguishing them from dessert bananas. The fruit is variable in size, color,
-and firmness, but is usually elongated and curved, with soft flesh rich in
-starch covered with a rind, which may be green, yellow, red, purple, or brown
-when ripe.&lt;/p&gt;</content><author><name>jill</name></author><summary type="html">A banana is an edible fruit – botanically a berry – produced by several kinds of large herbaceous flowering plants in the genus Musa.</summary></entry></feed>
+&lt;p&gt;J’ai decide de rassembler les idees qui m’inspire, mes interets et mes realisations. Ca me donnera aussi l’occasion de verbaliser mes pensees.&lt;/p&gt;</content><author><name>Antoine Bres</name></author><summary type="html">C’est le premier post de ce blog.</summary></entry></feed>

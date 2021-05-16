@@ -1,18 +1,5 @@
-<div class="header">
-	<div class="row">
-    	<div class="col-3">
-    		<h1 class="nav">
-				<a class="text-dark" href="/">Antoine Bres</a>
-    		</h1>
-		</div>
-		<div class="col-9">
-			<ul class="nav nav-pills float-right">
-			{% for item in site.data.navigation %}
-				<li><a class="p-2 link-secondary" href="{{ item.link }}" {% if page.url == item.link %}class="p-2 link-secondary current"{% endif %}>
-				{{ item.name }}
-				</a></li>
-			{% endfor %}
-			</ul>
-		</div>
-	</div>
-</div>
+<nav>
+{% for item in site.data.navigation %}
+	<a href="{{ item.link }}"> {{ item.name }}</a>
+{% endfor %}
+</nav>

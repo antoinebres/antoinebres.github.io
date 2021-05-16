@@ -1,4 +1,8 @@
 - name: Blog
   link: /blog/index.html
+- name: Search
+  link: /search.html
 - name: About
   link: /about.html
+- name: Contact
+  link: /contact.html

@@ -1,1 +1,1 @@
-Sitemap: /sitemap.xml
+Sitemap: http://www.antoinebres.gihub.io/sitemap.xml
